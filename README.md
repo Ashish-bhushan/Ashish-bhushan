@@ -1,19 +1,20 @@
 # Hi there!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashish-bhushan-singh-0b626735b" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
-  </a>&nbsp;
-  <a href="https://github.com/Ashish-bhushan" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" />
-  </a>&nbsp;
-  <a href="https://leetcode.com/u/Ashish_bhushan/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="30" width="30" />
-  </a>&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/hariomsin6elp/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="gfg" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/ashish-bhushan-singh-0b626735b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Ashish_bhushan/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/hariomsin6elp/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://www.naukri.com/code360/profile/Ashishbhushan" target="_blank">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-FF6F00?style=flat-square&logo=codingninjas&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
